@@ -45,6 +45,7 @@ Admin Module
  Technologies Used:
 
  •	Programming Language: Java.
+
  •	UI Design: XML.
 
  Development Environment: Android Studio
