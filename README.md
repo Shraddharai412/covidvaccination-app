@@ -50,4 +50,18 @@ Admin Module
 
  Development Environment: Android Studio
 
+Results
+
+![image](https://github.com/user-attachments/assets/2760104f-7d80-4a75-ad3f-d4b639b80ac0)
+![image](https://github.com/user-attachments/assets/69d7f60c-5d31-4c69-866f-d6ac099f8b7b)
+![image](https://github.com/user-attachments/assets/afae82b4-3a14-4a57-a279-5ea2b17239c5)
+![image](https://github.com/user-attachments/assets/7bbec33e-702c-44b5-9c47-fe0387626edf)
+![image](https://github.com/user-attachments/assets/a5ecf5d7-9ec5-42fb-ba4d-5d5d67b40594)
+![image](https://github.com/user-attachments/assets/636531e7-c894-4708-8d89-059619690a40)
+![image](https://github.com/user-attachments/assets/4db805f5-838a-43a2-9888-3ba41ef90147)
+![image](https://github.com/user-attachments/assets/86fc4d80-547e-489e-8aae-96f7e8865b95)
+
+
+
+
 
